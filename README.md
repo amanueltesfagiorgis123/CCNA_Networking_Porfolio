@@ -7,7 +7,7 @@
     <li> Troubleshooting ability 
       <li> Documentation habits 
         <li> network design
-        </li>li>
+        </li>
       </li>
     </li>
   </li>
