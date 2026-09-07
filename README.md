@@ -6,7 +6,7 @@
   <li> Configuration skills (Switching, Routing, Security)
     <li> Troubleshooting ability 
       <li> Documentation habits 
-        <li> network design
+        <li> Network design
         </li>
       </li>
     </li>
